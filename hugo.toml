@@ -1,4 +1,35 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
-theme = 'doors'
+baseURL = '/rk-tutoring-atx/'
+languageCode = 'en-us'
+title = 'RK Tutoring ATX'
+theme = "book-landing-hugo-theme"
+
+[params]
+    show_testimonials = true
+    show_faq = true
+
+    # These create the primary buttons on the landing page
+    [[params.buy_links]]
+        url = "https://your-booking-link.com"
+        text = "Book a Session"
+        icon = "fas fa-calendar-check"
+
+    [[params.buy_links]]
+        url = "#testimonials"
+        text = "Read Reviews"
+        icon = "fas fa-star"
+
+    # Change 'author' from a string to an object
+    [params.author]
+        name = "Riley Kelfer"
+        bio = "Expert tutoring services in Austin, TX. Welcome to my site!"
+        image = "images/chrish.jpg"
+
+    # General Book/Business Info
+    description = "Expert tutoring services in Austin, TX."
+    book_title = "RK Tutoring ATX"
+    book_tagline = "Empowering students to reach their full potential."
+    book_cover = "images/book-cover.png" 
+
+    [[params.nav_links]]
+        name = "About Me"
+        url = "/about"

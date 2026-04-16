@@ -1,0 +1,9 @@
+[[reviews]]
+    name = "Alex S."
+    text = "Riley is an incredible tutor! My math grades improved from a C to an A."
+    rating = 5
+
+[[reviews]]
+    name = "Jordan M."
+    text = "Highly recommend for SAT prep. The sessions are very helpful."
+    rating = 5

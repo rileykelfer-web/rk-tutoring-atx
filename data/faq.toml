@@ -1,0 +1,11 @@
+[[items]]
+    question = "What subjects do you tutor?"
+    answer = "I specialize in high school Mathematics (Algebra through Calculus) and SAT/ACT prep."
+
+[[items]]
+    question = "Where do sessions take place?"
+    answer = "I offer in-person tutoring in the greater Austin area and virtual sessions via Zoom."
+
+[[items]]
+    question = "What is your cancellation policy?"
+    answer = "I require 24 hours' notice for cancellations to avoid a session fee."
