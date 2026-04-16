@@ -1,4 +1,4 @@
-baseURL = '/rk-tutoring-atx/'
+baseURL = 'https://github.io'
 languageCode = 'en-us'
 title = 'RK Tutoring ATX'
 theme = "book-landing-hugo-theme"
