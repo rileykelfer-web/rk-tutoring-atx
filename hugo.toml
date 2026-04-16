@@ -3,18 +3,6 @@ languageCode = 'en-us'
 title = 'RK Tutoring ATX'
 theme = "book-landing-hugo-theme"
 
-# Add this section to force Hugo to look at the theme layouts
-[module]
-  [[module.mounts]]
-    source = "layouts"
-    target = "layouts"
-  [[module.mounts]]
-    source = "static"
-    target = "static"
-  [[module.mounts]]
-    source = "data"
-    target = "data"
-
 [params]
     show_testimonials = true
     show_faq = true

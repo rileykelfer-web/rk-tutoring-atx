@@ -1,8 +1,3 @@
 ---
-title: Riley Kelfer Tutoring ATX
-linkTitle: Homepage
-layout: "index"
-draft: false
+Title: Home
 ---
-
-Personalized academic support for diverse learners.
